@@ -1,0 +1,43 @@
+body {
+    background-image: url("background.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: monospace;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: 200px;
+    align-items: center;
+    justify-content: center;
+}
+
+h3{
+    font-size: 30px;
+    color: azure;
+}
+
+h1 {
+    font-size: 50px;
+    color: azure;
+}
+
+.controls {
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+button {
+    height: 60px;
+    width: 200px;
+    margin: 8px;
+    background-color: rgb(174, 124, 243);
+    font-family: monospace;
+    font-size: 20px;
+    color: azure;
+    border-color: rgb(172, 100, 239);
+}
