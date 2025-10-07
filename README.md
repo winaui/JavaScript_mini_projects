@@ -1,1 +1,1 @@
-Just some simple projects with Java Script, HTML and CSS.
+Just some simple projects using Java Script, HTML and CSS.
